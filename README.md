@@ -66,9 +66,7 @@ Untuk mendapatkan Key License, silakan hubungi Developer melalui:
 </p>
 
 Platform Kontak
-💬 WhatsApp +62 878-2387-2402
-✈️ Telegram @pinguinpv
-
+💬 ManzsModz / PinguinSec
 ---
 
 ⚠️ Disclaimer
