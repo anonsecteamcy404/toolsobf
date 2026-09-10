@@ -1,7 +1,7 @@
 🛠️ Basic Tools Encrypt Python
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Platform-Termux-green?style=for-the-badge&logo=android&logoColor=white" alt="Termux">
   <img src="https://img.shields.io/badge/Status-Premium-red?style=for-the-badge" alt="Premium">
 </p>
